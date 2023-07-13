@@ -1,0 +1,57 @@
+{
+  "actualites": [
+    {
+      "id": 1,
+      "titre": "Nouvelles importantes",
+      "image": "https://example.com/image1.jpg",
+      "date": "2023-06-01",
+      "commentaires": 5
+    },
+    {
+      "id": 2,
+      "titre": "Nouvelle mise à jour du site",
+      "image": "https://example.com/image2.jpg",
+      "date": "2023-06-05",
+      "commentaires": 10
+    },
+    {
+      "id": 3,
+      "titre": "Événement à venir",
+      "image": "https://example.com/image3.jpg",
+      "date": "2023-06-10",
+      "commentaires": 3
+    }
+  ],
+  "commentaires": [
+    {
+      "id": 1,
+      "articleId": 1,
+      "nom": "John Doe",
+      "contenu": "C'est une nouvelle intéressante !"
+    },
+    {
+      "id": 2,
+      "articleId": 1,
+      "nom": "Jane Smith",
+      "contenu": "Je suis impatient d'en savoir plus."
+    },
+    {
+      "id": 3,
+      "articleId": 2,
+      "nom": "Alice Johnson",
+      "contenu": "Félicitations pour la mise à jour !"
+    },
+    {
+      "id": 4,
+      "articleId": 2,
+      "nom": "Bob Thompson",
+      "contenu": "J'aime beaucoup le nouveau design."
+    },
+    {
+      "id": 5,
+      "articleId": 3,
+      "nom": "Emily Davis",
+      "contenu": "Quel est le programme de l'événement ?"
+    }
+  ]
+}

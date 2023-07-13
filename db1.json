@@ -1,0 +1,92 @@
+{
+  "actualites": [
+    {
+      "id": 1,
+      "titre": "Scan to BIM , L'avenire !!!!!!!!!!!::::::::::!!!",
+      "images": "Leves-inspection-drones.png,opci.png",
+      "date": "2023-06-01",
+      "commentaires": 5,
+      "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, rerum esse tempore et sapiente nesciunt laborum magni enim dolorem, iure ratione provident, inventore numquam? Repellendus aperiam ut aliquid minus sapiente.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit veritatis suscipit commodi fuga dolores enim, quidem, repellendus quos corporis adipisci aliquam ab? Doloremque aut dolore dolorum soluta error deserunt velit! ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, rerum esse tempore et sapiente nesciunt laborum magni enim dolorem, iure ratione provident, inventore numquam? Repellendus aperiam ut aliquid minus sapiente.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit veritatis suscipit commodi fuga dolores enim, quidem, repellendus quos corporis adipisci."
+    },
+    {
+      "id": 2,
+      "titre": "Nouvelle mise à jour du site",
+      "images": "opci.png,Organigramme.png",
+      "date": "2023-06-05",
+      "commentaires": 10,
+      "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, rerum esse tempore et sapiente nesciunt laborum magni enim dolorem, iure ratione provident, inventore numquam? Repellendus aperiam ut aliquid minus sapiente.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit veritatis suscipit commodi fuga dolores enim, quidem, repellendus quos corporis adipisci aliquam ab? Doloremque aut dolore dolorum soluta error deserunt velit! ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, rerum esse tempore et sapiente nesciunt laborum magni enim dolorem, iure ratione provident, inventore numquam? Repellendus aperiam ut aliquid minus sapiente.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit veritatis suscipit commodi fuga dolores enim, quidem, repellendus quos corporis adipisci."
+    },
+    {
+      "id": 3,
+      "titre": "Événement à venir",
+      "images": "Prsentation.png",
+      "date": "2023-06-10",
+      "commentaires": 3,
+      "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, rerum esse tempore et sapiente nesciunt laborum magni enim dolorem, iure ratione provident, inventore numquam? Repellendus aperiam ut aliquid minus sapiente.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit veritatis suscipit commodi fuga dolores enim, quidem, repellendus quos corporis adipisci aliquam ab? Doloremque aut dolore dolorum soluta error deserunt velit! ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, rerum esse tempore et sapiente nesciunt laborum magni enim dolorem, iure ratione provident, inventore numquam? Repellendus aperiam ut aliquid minus sapiente.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit veritatis suscipit commodi fuga dolores enim, quidem, repellendus quos corporis adipisci."
+    },
+    {
+      "id": 4,
+      "titre": "Événement à venir",
+      "images": "Prsentation.png,Organigramme.png",
+      "date": "2023-06-10",
+      "commentaires": 5,
+      "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. "
+    }
+  ],
+  "commentaires": [
+    {
+      "id": 1,
+      "articleId": 1,
+      "nom": "John Doe",
+      "contenu": "C'est une nouvelle intéressante !"
+    },
+    {
+      "id": 2,
+      "articleId": 1,
+      "nom": "Jane Smith",
+      "contenu": "Je suis impatient d'en savoir plus."
+    },
+    {
+      "id": 3,
+      "articleId": 2,
+      "nom": "Alice Johnson",
+      "contenu": "Félicitations pour la mise à jour !"
+    },
+    {
+      "id": 4,
+      "articleId": 2,
+      "nom": "Bob Thompson",
+      "contenu": "J'aime beaucoup le nouveau design."
+    },
+    {
+      "id": 5,
+      "articleId": 3,
+      "nom": "Emily Davis",
+      "contenu": "Quel est le programme de l'événement ?"
+    },
+    {
+      "articleId": null,
+      "nom": "anas",
+      "contenu": "dhdhd",
+      "id": 6
+    },
+    {
+      "articleId": null,
+      "nom": "anas",
+      "contenu": "djdj",
+      "id": 7
+    },
+    {
+      "articleId": "2",
+      "nom": "jhhh",
+      "contenu": "utttr",
+      "id": 8
+    },
+    {
+      "articleId": "2",
+      "nom": "aba",
+      "contenu": "aba",
+      "id": 9
+    }
+  ]
+}

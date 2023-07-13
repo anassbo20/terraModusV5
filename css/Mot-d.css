@@ -1,0 +1,141 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1810px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 55px auto 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 972px;
+  min-height: 1421px;
+  height: auto;
+  background-image: none;
+  margin: 167px 74px 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 28px 29px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 44px;
+  height: 44px;
+  margin: -62px auto 0 512px;
+  padding: 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 98px;
+  height: 98px;
+  margin: -31px auto 0 400px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.125rem;
+  line-height: 2;
+  margin: 47px 1px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    width: 940px;
+    margin-right: 0;
+    height: auto;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-left: 494px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    width: 720px;
+    min-height: 1760px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 0;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: -63px;
+    margin-right: 166px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 21px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2625px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+    min-height: 2111px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: -103px;
+    margin-right: 22px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 9px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 3685px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+    min-height: 3191px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: -106px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 12px;
+    margin-left: 222px;
+  }
+}

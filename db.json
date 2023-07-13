@@ -1,0 +1,105 @@
+{
+    "Msgs": [
+        {
+            "incommingMsg":["bonjour","bonj","bjr"],
+            "outcommingMsg":"bonjour, Comment pouvons nous vous aidez ?"
+        },
+        {
+            "incommingMsg":["السلام","سلام","سلم"],
+            "outcommingMsg":"وعليكم السلام, كيف نخدمكم؟"
+        },
+        {
+            "incommingMsg":["hi","hello","hel"],
+            "outcommingMsg":"hi, How can we help you?"
+        },
+        {
+            "incommingMsg":["hola","hla"],
+            "outcommingMsg":"hola, como te podemos ayudar?"
+        },
+        {
+            "incommingMsg": ["devis","dvis"],
+            "outcommingMsg":"vous voulez demander un devis? <a href='Demande-devis.html' style='cursor: pointer'>cliquez ici</a>"
+        },
+        {
+            "incommingMsg": ["quote","estimate"],
+            "outcommingMsg":"you want to request a quote? <a href='Demande-devis.html' style='cursor: pointer'>click here</a>"
+        },
+        {
+            "incommingMsg": ["cita","presupuesto"],
+            "outcommingMsg":"¿desea solicitar un presupuesto? <a href='Demande-devis.html' style='cursor: pointer'>pulse aquí</a>"
+        },
+        {
+            "incommingMsg": ["citazione","preventivo"],
+            "outcommingMsg":"si desidera richiedere un preventivo? <a href='Demande-devis.html' style='cursor: pointer'>clicca qui</a>"
+        },
+        {
+            "incommingMsg": ["citaat","citat","quote","offerte"],
+            "outcommingMsg":"u een offerte wilt aanvragen? <a href='Demande-devis.html' style='cursor: pointer'>klik hier</a>"
+        },
+        {
+            "incommingMsg": ["خدمة","تسعيرة","سعر","خدم"],
+            "outcommingMsg":"تريدون طلب تسعيرة لخدمة معينة ؟"
+        },
+        {
+            "incommingMsg": ["opci"],
+            "outcommingMsg":"vous voulez demander un devis pour OPCI? <a href='Demande-devis.html' style='cursor: pointer'>cliquez ici</a>"
+        },
+        {
+            "incommingMsg": ["Grands Comptes","Compte"],
+            "outcommingMsg":"vous voulez demander un devis pour Grands Comptes? <a href='Demande-devis.html' style='cursor: pointer'>cliquez ici</a>"
+        },
+        {
+            "incommingMsg": ["Banque"],
+            "outcommingMsg":"vous voulez demander un devis pour Banques? <a href='Demande-devis.html' style='cursor: pointer'>cliquez ici</a>"
+        },
+        {
+            "incommingMsg": ["Amiables et Judiciaires","Amiable","Judiciaire"],
+            "outcommingMsg":"vous voulez demander un devis pour Amiables et Judiciaires? <a href='Demande-devis.html' style='cursor: pointer'>cliquez ici</a>"
+        },
+        {
+            "incommingMsg": ["Etudes des marchés","etude","marché"],
+            "outcommingMsg":"vous voulez demander un devis pour une etude de marché? <a href='Demande-devis.html' style='cursor: pointer'>cliquez ici</a>"
+        },
+        {
+            "incommingMsg": ["Conseil en Immobilier","Conseil","Immob"],
+            "outcommingMsg":"vous voulez demander un devis pour un conseil en immobilier? <a href='Demande-devis.html' style='cursor: pointer'>cliquez ici</a>"
+        },
+        {
+            "incommingMsg": ["Topographie et Chantier","Topographie","Chantier"],
+            "outcommingMsg":"vous voulez demander un devis pour Topographie et Chantier? <a href='Demande-devis.html' style='cursor: pointer'>cliquez ici</a>"
+        },
+        {
+            "incommingMsg": ["Scan to BIM","scan"],
+            "outcommingMsg":"vous voulez demander un devis pour Scan to BIM? <a href='Demande-devis.html' style='cursor: pointer'>cliquez ici</a>"
+        },
+        {
+            "incommingMsg": ["Levés et Inspection par Drones","Leve","Levé","dron"],
+            "outcommingMsg":"vous voulez demander un devis pour Levés et Inspection par Drones? <a href='Demande-devis.html' style='cursor: pointer'>cliquez ici</a>"
+        },
+        {
+            "incommingMsg": ["SIG","Web","Mapp"],
+            "outcommingMsg":"vous voulez demander un devis pour Levés et SIG et Web Mapping? <a href='Demande-devis.html' style='cursor: pointer'>cliquez ici</a>"
+        },
+        {
+            "incommingMsg": ["BIM"],
+            "outcommingMsg":"vous voulez demander un devis pour BIM? <a href='Demande-devis.html' style='cursor: pointer'>cliquez ici</a>"
+        },
+        {
+            "incommingMsg": ["SIG"],
+            "outcommingMsg":"vous voulez demander un devis pour SIG? <a href='Demande-devis.html' style='cursor: pointer'>cliquez ici</a>"
+        },
+        {
+            "incommingMsg": ["DATA"],
+            "outcommingMsg":"vous voulez demander un devis pour BIG DATA? <a href='Demande-devis.html' style='cursor: pointer'>cliquez ici</a>"
+        },
+        {
+            "incommingMsg": ["artifi"],
+            "outcommingMsg":"vous voulez demander un devis pour intelligence artificielle? <a href='Demande-devis.html' style='cursor: pointer'>cliquez ici</a>"
+        },
+        {
+            "incommingMsg": ["Formation"],
+            "outcommingMsg":"vous voulez demander un devis pour une formation? <a href='Demande-devis.html' style='cursor: pointer'>cliquez ici</a>"
+        }
+        
+    ]
+}
